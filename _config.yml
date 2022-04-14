@@ -86,6 +86,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "portfolios"
+    values:
+      layout: portfolios # Set the default layout for portfolios      
+  -
+    scope:
+      path: ""
       type: "pages"
     values:
       layout: page # Set the default layout for pages
