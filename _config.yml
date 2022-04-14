@@ -86,12 +86,6 @@ defaults:
   -
     scope:
       path: ""
-      type: "portfolios"
-    values:
-      layout: portfolios # Set the default layout for portfolios      
-  -
-    scope:
-      path: ""
       type: "pages"
     values:
       layout: page # Set the default layout for pages
@@ -129,8 +123,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Works
-  url: /works/
 - title: Blog
   url: /blog/
 - title: Categories
