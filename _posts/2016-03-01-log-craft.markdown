@@ -1,0 +1,24 @@
+---
+layout: post
+title: LogCraft 모바일
+date: 2016-03-01 00:00:00 +0300
+description: 컨버전 데이터를 제공하는 검색 솔루션 로그프래프트 모바일 사이트 입니다.
+img: portfolio/logcraft/big_logcraft_01.jpg # Add image post (optional)
+tags: [LogCraft, mediagram] # add tag
+---
+
+- 작업기간 : 2016-03 ~ 2016-03
+- 작업 기여도 : 100% ( html / css / javascript )
+- Web View UI
+
+### Link
+
+- [LogCraft ][link]
+
+![LogCraft]({{site.baseurl}}/assets/img/portfolio/logcraft/big_logcraft_02.jpg)
+![LogCraft]({{site.baseurl}}/assets/img/portfolio/logcraft/big_logcraft_03.jpg)
+![LogCraft]({{site.baseurl}}/assets/img/portfolio/logcraft/big_logcraft_04.jpg)
+
+
+
+[link]: https://testype.asuscomm.com/sohappy/work/LogCraft_m/views/index.html

@@ -1,0 +1,26 @@
+---
+layout: post
+title: XION
+date: 2016-10-01 00:00:00 +0300
+description: 선수트레이닝 전문 센터 XION의 홈페이지 입니다.
+img: portfolio/xion/big_xion_01.jpg # Add image post (optional)
+tags: [xion, mediagram] # add tag
+---
+
+- 작업기간 : 2016-10 ~ 2016-11
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- [https://www.xionkorea.com/][link-xion]
+
+
+![xion]({{site.baseurl}}/assets/img/portfolio/xion/big_xion_02.jpg)
+![xion]({{site.baseurl}}/assets/img/portfolio/xion/big_xion_03.jpg)
+![xion]({{site.baseurl}}/assets/img/portfolio/xion/big_xion_04.jpg)
+![xion]({{site.baseurl}}/assets/img/portfolio/xion/big_xion_05.jpg)
+![xion]({{site.baseurl}}/assets/img/portfolio/xion/big_xion_06.jpg)
+
+
+
+[link-xion]:https://www.xionkorea.com/

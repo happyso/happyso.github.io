@@ -1,0 +1,32 @@
+---
+layout: post
+title: 유씨엘 3사 웹사이트 리뉴얼
+date: 2016-12-01 00:00:00 +0300
+description: 원료의약품, 화장품소재 전문기업 대봉엘에스, 유씨엘, 피엔케이 3사 반응형 홈페이지 입니다.
+img: portfolio/ucl/daebongls_01.jpg # Add image post (optional)
+tags: [ucl, Wylie] # add tag
+---
+
+- 작업기간 : 2016-12 ~ 2017-09
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- daebongls : [http://www.daebongls.co.kr/kor][link-daebongls]
+- e-ucl : [http://www.e-ucl.co.kr/kor][link-ucl]
+- pnkskin : [http://www.pnkskin.com/kor][link-pnk]
+
+
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/daebongls_02.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/daebongls_03.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/pnk_01.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/pnk_02.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/pnk_03.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/ucl_01.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/ucl_02.jpg)
+![ucl]({{site.baseurl}}/assets/img/portfolio/ucl/ucl_03.jpg)
+
+
+[link-daebongls]: http://www.daebongls.co.kr/kor
+[link-ucl]: http://www.e-ucl.co.kr/kor
+[link-pnk]: http://www.pnkskin.com/kor

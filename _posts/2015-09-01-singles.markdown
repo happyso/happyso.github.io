@@ -1,0 +1,25 @@
+---
+layout: post
+title: 싱글즈 모바일
+date: 2015-09-01 00:00:00 +0300
+description: 직장 여성들을 위한 패션 매거진 싱글즈 모바일 사이트 입니다.
+img: portfolio/singles/big_singles_01.jpg # Add image post (optional)
+tags: [singles, mediagram] # add tag
+---
+
+- 작업기간 : 2015-09 ~ 2016-02
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- [싱글즈 모바일][link]
+
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_02.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_03.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_04.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_05.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_06.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_07.jpg)
+![singles]({{site.baseurl}}/assets/img/portfolio/singles/big_singles_08.jpg)
+
+[link]: https://testype.asuscomm.com/sohappy/work/singles/view/index.html

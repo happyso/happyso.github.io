@@ -1,0 +1,25 @@
+---
+layout: post
+title: 엘에너지 홈페이지
+date: 2014-07-01 00:00:00 +0300
+description: 에너지 전문기업 엘에너지 기업 사이트 입니다.
+img: portfolio/lenergy/big_lenergy_01.jpg # Add image post (optional)
+tags: [lenergy, devpia] # add tag
+---
+
+- 작업기간 : 2014-05 ~ 2014-07
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- [lenergy][link]
+
+![lenergy]({{site.baseurl}}/assets/img/portfolio/lenergy/big_lenergy_02.jpg)
+![lenergy]({{site.baseurl}}/assets/img/portfolio/lenergy/big_lenergy_03.jpg)
+![lenergy]({{site.baseurl}}/assets/img/portfolio/lenergy/big_lenergy_04.jpg)
+![lenergy]({{site.baseurl}}/assets/img/portfolio/lenergy/big_lenergy_05.jpg)
+
+
+
+[link]: https://testype.asuscomm.com/sohappy/work/lenergy/main.html
+

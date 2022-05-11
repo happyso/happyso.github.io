@@ -1,0 +1,20 @@
+---
+layout: post
+title: VINCI
+date: 2016-01-01 00:00:00 +0300
+description: 음원 거래 사이트 빈치 입니다.
+img: portfolio/vinci/big_vinci_01.jpg # Add image post (optional)
+tags: [vinci, mediagram] # add tag
+---
+
+- 작업기간 : 2016-01 ~ 2016-02
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- [VINCI][link]
+
+![VINCI]({{site.baseurl}}/assets/img/portfolio/vinci/big_vinci_02.jpg)
+![VINCI]({{site.baseurl}}/assets/img/portfolio/vinci/big_vinci_03.jpg)
+
+[link]: https://testype.asuscomm.com/sohappy/work/2015_vinci/view/index.html

@@ -1,0 +1,19 @@
+---
+layout: post
+title: 하나티켓 PC, Mobile 리뉴얼
+date: 2017-07-01 00:00:00 +0300
+description: 하나투어 공연 예매서비스! 하나티켓 홈페이지 입니다.
+img: portfolio/hanaticket/hana_w_01.jpg # Add image post (optional)
+tags: [hanaticket, Wylie] # add tag
+---
+
+- 작업기간 : 2017-07 ~ 2018-01
+- 작업 기여도 : 100% ( html / css / javascript )
+
+### Link
+
+- PC : [hanaticket PC][link-pc]
+- Mobile : [hanaticket Mobile][link-mobile]
+
+[link-pc]: https://testype.asuscomm.com/sohappy/work/hanaticket/html/web/main/index.html
+[link-mobile]: https://testype.asuscomm.com/sohappy/work/hanaticket/html/mobile/main/index.html
