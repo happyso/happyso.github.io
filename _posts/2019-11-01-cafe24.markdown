@@ -7,20 +7,20 @@ img: portfolio/cafe24/cafe24_01.png # Add image post (optional)
 tags: [cafe24] # add tag
 ---
 
-- 작업기간 : 2019-11-20 ~ 
-- 작업 기여도 : 100% ( html / css / javascript / nodejs / react / SEO )
+-   작업기간 : 2019-11-20 ~
+-   작업 기여도 : 100% ( html / css / javascript / nodejs / react / SEO )
 
-- 카페24 전체 서비스 유지보수, 개선, 신규 구축 등 UI개발 PM으로 다양한 작업 진행 중 
-
+-   카페24 전체 서비스 유지보수, 개선, 신규 구축 등 UI개발 PM으로 다양한 작업 진행 중
 
 ### Link
-- [CAFE24 솔루션 프론트 React 전환]
-- [CAFE24 쇼핑몰센터][center]
-- [CAFE24 developers][developers]
-- [CAFE24 Store][store]
-- [CAFE24 Partners][partners]
+
+-   CAFE24 솔루션 프론트 React 전환
+-   [CAFE24 쇼핑몰센터][center]
+-   [CAFE24 developers][developers]
+-   [CAFE24 Store][store]
+-   [CAFE24 Partners][partners]
 
 [developers]: https://developers.cafe24.com/
 [store]: https://store.cafe24.com/kr/apps
-[partners]:https://partners.cafe24.com/ko
-[center]:https://ec.cafe24.com/
+[partners]: https://partners.cafe24.com/ko
+[center]: https://ec.cafe24.com/
